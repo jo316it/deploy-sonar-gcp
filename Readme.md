@@ -6,7 +6,7 @@ You can modify this project how you want, since that can help you.
 
 Bellow I'd like describe de phases of this little project and how you can work it.
 
-## Whats I make this project?
+## Why I make this project?
 
 I decide to make this project  for two reasons: Lear Terraform and Fix what I learned in GCP.
 The final result is a instance with Sonarqube totally configured without database. 
