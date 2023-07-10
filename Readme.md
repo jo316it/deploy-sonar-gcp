@@ -19,7 +19,7 @@ The Terraform call the scripts inside of inputs directory (install.sh) and make 
 
 
 
-## Environmnet Variables
+## Environment Variables
 
 To run this project you gonna need add the next environment variable on file variable.tf
 
